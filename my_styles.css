@@ -22,3 +22,7 @@ nav ul {
     text-indent: 5px;
     border-radius: 5px;
 }
+nav ul li:hover {
+    background-color: rgb(148, 51, 62);
+    border-radius: 5px;
+}
