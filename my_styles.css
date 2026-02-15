@@ -31,3 +31,8 @@ nav ul li a {
     font-weight: bold;
     text-decoration: none;
 }
+/* Style for the home page image*/
+section img#home_page_img {
+    width: 560px;
+    height: 400px;
+}
