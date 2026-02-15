@@ -36,3 +36,12 @@ section img#home_page_img {
     width: 560px;
     height: 400px;
 }
+/*General image styles*/
+.img_border {
+    padding: 5px;
+    margin: 5px;
+    border-style: solid;
+    border-color: rgb(175, 175, 175) rgb(200, 200, 200);
+    background-color: black;
+    border-radius: 20px;
+}
