@@ -5,7 +5,7 @@ html, body {
 }
 /* Display HTML5 structural elements as blocks */
 footer, header, section, nav {
-    display: block
+    display: block;
 }
 /* Style for the nav element */
 nav {
