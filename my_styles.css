@@ -1,0 +1,9 @@
+/* Created by Judi Dupuy on 2/14/26 */
+/* Set the height of the body and html to 100% */
+html, body {
+    height: 100%
+}
+/* Display HTML5 structural elements as blocks */
+footer, header, section, nav {
+    display: block
+}
