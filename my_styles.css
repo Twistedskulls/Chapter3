@@ -45,3 +45,12 @@ section img#home_page_img {
     background-color: black;
     border-radius: 20px;
 }
+/*Stlye for the home page title */
+header h1 {
+    text-align: center;
+    letter-spacing: 5px;
+    text-shadow: 2px 2px 5px rgb(30, 144, 255);
+    font-family: Garamond;
+    margin: -10px -10px 20px -10px;
+    background-image: linear-gradient(rgb(255,255,255),rgb(30,144,255));
+}
