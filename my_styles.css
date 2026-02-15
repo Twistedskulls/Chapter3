@@ -7,3 +7,10 @@ html, body {
 footer, header, section, nav {
     display: block
 }
+/* Style for the nav element */
+nav {
+    width: 200px;
+    float: left;
+    margin-right: 10px;
+    margin-top: 35px;
+}
