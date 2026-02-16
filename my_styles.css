@@ -73,3 +73,7 @@ section figcaption {
     max-width: 870px;
     font-family: Monaco, Consolas;
 }
+/*Styles for the products table */
+section table {
+    border: 2px solid black;
+}
