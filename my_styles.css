@@ -88,3 +88,6 @@ section table tr:nth-child(even) {
 section table col.price {
     background-color: rgb(255, 255, 224);
 }
+section table tr:hover {
+    background-color: rgb(176, 224, 230);
+}
