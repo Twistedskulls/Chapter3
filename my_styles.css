@@ -77,3 +77,6 @@ section figcaption {
 section table {
     border: 2px solid black;
 }
+section table td, th {
+    border: 1 px solid rgb(175, 175, 175);
+}
