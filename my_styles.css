@@ -92,8 +92,8 @@ section table tr:hover {
     background-color: rgb(176, 224, 230);
 }
 /*Style for kitty photo */
-picture {
-    border: 10px solid black;
+.image-border {
+    border: 5px solid black;
     box-sizing: border-box;
     padding: 10%;
 }
