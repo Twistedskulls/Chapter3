@@ -93,5 +93,7 @@ section table tr:hover {
 }
 /*Style for kitty photo */
 picture {
-    border: 2px solid black;
+    border: 10px solid black;
+    box-sizing: border-box;
+    padding: 80%;
 }
