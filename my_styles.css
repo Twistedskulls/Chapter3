@@ -96,3 +96,10 @@ section form {
     background-color: lightblue;
 }
 /* Styles for the causes page */
+div {
+    border: 2px solid gray;
+    background-color: lightcyan;
+    padding: 15px;
+    border-radius: 10px;
+    width: fit-content;
+}
