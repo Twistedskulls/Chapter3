@@ -95,5 +95,5 @@ section table tr:hover {
 picture {
     border: 10px solid black;
     box-sizing: border-box;
-    padding: 80%;
+    padding: 20%;
 }
