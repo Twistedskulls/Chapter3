@@ -51,3 +51,8 @@ header {
 .menu-chkbx:checked - .menu-burger .hamburger:after {
     top: 0;
 }
+nav ul li {
+    margin: 10px 0px 10px 0px;
+    text-align: center;
+    border: 1px solid rgb(0,0,0);
+}

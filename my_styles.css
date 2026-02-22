@@ -8,3 +8,13 @@ nav ul {
     line-height: 2em;
     list-style-type: none;
 }
+nav ul li {
+    background-color: rgb(175,175,175);
+    border-radius: 5px;
+    width: 99%;
+}
+nav a {
+    color: rgb(255, 255, 0);
+    font-weight: bold;
+    text-decoration: none;
+}
