@@ -1,5 +1,19 @@
 /* Created by Judi Dupuy on 2/16/26 */
 /* Set the height of the body and html to 100% */
+html, body {
+    height: 100%;
+    width: 100%;
+}
+header {
+    width: 105%;
+    margin: 0px -10px 0px -10px;
+    background-color: rgb(240, 248, 255);
+}
+header h1 {
+    text-shadow: 2px 2px 5px rgb(30, 144, 255);
+    font-family: Garamond;
+    background-image: linear-gradient(rgb(255, 255, 255));
+}
 nav {
     width: 200px;
     float: left;
