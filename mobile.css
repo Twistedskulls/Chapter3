@@ -38,3 +38,16 @@ header {
     content: '';
     position: absolute;
 }
+.menu-chkbx:checked - .menu-burger .hamburger {
+    background: transparent;
+}
+.menu-chkbx:checked - .menu-burger .hamburger:before {
+    transform: rotate(-45deg);
+}
+.menu-chkbx:checked - .menu-burger .hamburger:after {
+    transform: rotate(45deg);
+}
+.menu-chkbx:checked - .menu-burger .hamburger:before,
+.menu-chkbx:checked - .menu-burger .hamburger:after {
+    top: 0;
+}
