@@ -1,8 +1,5 @@
 /* Created by Judi Dupuy on 2/22/26 */
 /* Styles for Tablet screens */
-.menu-burger, .menu-chkbx, .hamburger {
-    display: none;
-}
 nav {
     margin: -15px 0px 0px 5px;
     width: 99%;

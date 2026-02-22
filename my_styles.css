@@ -4,6 +4,9 @@ html, body {
     height: 100%;
     width: 100%;
 }
+.menu-burger, .menu-chkbx, .hamburger {
+    display: none;
+}
 header {
     width: 105%;
     margin: 0px -10px 0px -10px;
@@ -31,4 +34,13 @@ nav a {
     color: rgb(255, 255, 0);
     font-weight: bold;
     text-decoration: none;
+}
+@media screen and (min-width: 480px) {
+    .menu-burger, .menu-chkbx, .hamburger {
+        display: none;
+    }
+}
+section h2 {
+    font-family: Copperplate, "Cooperplate Gothic", serif;
+    max-width: 870px;
 }
