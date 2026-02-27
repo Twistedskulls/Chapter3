@@ -1,5 +1,10 @@
 /* Created by Judi Dupuy on 2/16/26 */
 /* Set the height of the body and html to 100% */
+@media print, screen and (min-width: 480px) {
+    .menu-burger, .menu-chkbx, .hamburger {
+        display: none;
+    }
+}
 html, body {
     height: 100%;
     width: 100%;
@@ -79,4 +84,12 @@ img.four-square {
     border-color: rgb(175,175,175) rgb(200,200,200);
     background-color: black;
     border-radius: 20px;
+    min-width: 100px;
+}
+footer {
+    text-align: center;
+    font-size: .75em;
+    font-family: Garamond;
+    background-color: rgb(200, 200, 200);
+    margin: 0px -10px20px-10px;
 }
